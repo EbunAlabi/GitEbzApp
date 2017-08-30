@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParsingGitApi</string>
+    <string name="no_profiles">Unable to get list of GitHub users, network is probably poor.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="Username">Username</string>
+    <string name="Link">Github Profile Link</string>
+    <string name="github_users">Github Users in Lagos</string>
+    <string name="developed_by">Developed by @EbunAlabi</string>
+</resources>
